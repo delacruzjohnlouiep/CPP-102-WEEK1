@@ -1,5 +1,11 @@
-# CPP-102-WEEK1
-Dela Cruz, John Louie P.
-CPP102 - Programming Logic and Design
-CPE1-A
-Week 1 Reflection:
+# CPP102 Week 1 Activity
+Name: Dela Cruz, John Louie P.
+Section: 1CPE-A
+Course: CPP102 - Programming Logic and Design
+Introduction to Python Logic and Design
+
+## Reflection 
+Github is useful for progamming student becauseit allows
+them to store, manage and shere their code, track changes
+and projects, and collaborate with other developers while
+building a portfolio of their work.
