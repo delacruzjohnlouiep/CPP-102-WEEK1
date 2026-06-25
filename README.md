@@ -1,7 +1,7 @@
 # CPP102 Week 1 Activity
-Name: Dela Cruz, John Louie P.
-Section: 1CPE-A
-Course: CPP102 - Programming Logic and Design
+Dela Cruz, John Louie P.
+1CPE-A
+CPP102 - Programming Logic and Design
 Introduction to Python Logic and Design
 
 ## Reflection 
